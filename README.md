@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Some Skills And Programing  languages
 - 💞️ I’m looking to collaborate With FreeCodeCamp
-- 📫 You Can Text me On Linkedin using https://www.linkedin.com/in/engabdullahalhabal
+- 📫 You Can Text me On Linkedin using www.linkedin.com/in/abdullahalhabal-it
