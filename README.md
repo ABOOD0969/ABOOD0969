@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/abood_iteng" target="blank"><img src="https://img.shields.io/twitter/follow/abood_iteng?logo=twitter&style=for-the-badge" alt="abood_iteng" /></a> </p>
 
 <img align="right" alt="Coding" width="200" scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
+<br><br>
 - 🌱 I’m currently learning **Python , JS and nodeJS**
 
 - 💬 Ask me about **problem solving**
