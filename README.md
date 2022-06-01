@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al-Habal</h1>
 <h3 align="center">Software engineer | Problem Solver | JS | Python | C++ | Syrian virtual universit</h3>
-<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="300" scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abood0969&label=Profile%20views&color=0e75b6&style=flat" alt="abood0969" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abood_iteng" target="blank"><img src="https://img.shields.io/twitter/follow/abood_iteng?logo=twitter&style=for-the-badge" alt="abood_iteng" /></a> </p>
