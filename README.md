@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/abood_iteng" target="blank"><img src="https://img.shields.io/twitter/follow/abood_iteng?logo=twitter&style=for-the-badge" alt="abood_iteng" /></a> </p>
 
-<img align="right" alt="Coding" width="200" scr="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.LEH5tUEQReWe8Iu-UEV3PgHaFj%26pid%3DApi&f=1">
+<img align="right" alt="Coding" width="200" scr="https://keestalkstech.com/wp-content/uploads/2016/07/node-wallpaper.jpg">
 <br><br>
 - 🌱 I’m currently learning **Python , JS and nodeJS**
 
@@ -41,3 +41,4 @@
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abood0969&" alt="abood0969" /></p>
+<img align="right" alt="Coding" width="200" scr="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.M8v7Wwly6xRatFH9hGE-FAHaEF%26pid%3DApi&f=1">
