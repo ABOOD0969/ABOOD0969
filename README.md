@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/abood_iteng" target="blank"><img src="https://img.shields.io/twitter/follow/abood_iteng?logo=twitter&style=for-the-badge" alt="abood_iteng" /></a> </p>
 
-<img align="right" alt="Coding" width="200" scr="https://keestalkstech.com/wp-content/uploads/2016/07/node-wallpaper.jpg">
+<img align="center" alt="Coding"  scr="https://keestalkstech.com/wp-content/uploads/2016/07/node-wallpaper.jpg">
 <br><br>
-- 🌱 I’m currently learning **Python , JS and nodeJS**
+- 🌱 I’m currently learning Python , JS and nodeJS
 
-- 💬 Ask me about **problem solving**
+- 💬 Ask me about problem solving
 
-- 📫 How to reach me **dbnkalhbalb@gmail.com**
+- 📫 How to reach me dbnkalhbalb@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdullahalhabal-it/](https://www.linkedin.com/in/abdullahalhabal-it/)
 
-- ⚡ Fun fact **2B || !2B**
+- ⚡ Fun fact 2B || !2B
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,4 +41,4 @@
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abood0969&" alt="abood0969" /></p>
-<img align="right" alt="Coding" width="200" scr="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.M8v7Wwly6xRatFH9hGE-FAHaEF%26pid%3DApi&f=1">
+<img align="center" alt="Coding"  scr="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.M8v7Wwly6xRatFH9hGE-FAHaEF%26pid%3DApi&f=1">
