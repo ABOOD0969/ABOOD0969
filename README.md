@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abood0969&label=Profile%20views&color=0e75b6&style=flat" alt="abood0969" /> </p>
 
 
-<img align="center" alt="Coding"  scr="https://keestalkstech.com/wp-content/uploads/2016/07/node-wallpaper.jpg">
-<br><br>
 - 🌱 I’m currently learning Python , JS and nodeJS
 
 - 💬 Ask me about problem solving
@@ -40,4 +38,3 @@
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abood0969&" alt="abood0969" /></p>
-<img align="center" alt="Coding"  scr="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.M8v7Wwly6xRatFH9hGE-FAHaEF%26pid%3DApi&f=1">
