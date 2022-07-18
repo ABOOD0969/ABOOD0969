@@ -9,7 +9,7 @@
 
 - 📫 How to reach me dbnkalhbalb@gmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/engabdullahalhabal/](https://www.linkedin.com/in/engabdullahalhabal/)
+- 📄 Know about my experiences [Abdullah Al-Habal](https://www.linkedin.com/in/abdullahalhabal-it/)
 
 - ⚡ Fun fact 2B || !2B
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/supernova94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="supernova94" height="30" width="40" /></a>
 <a href="https://twitter.com/abood_iteng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abood_iteng" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/engabdullahalhabal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahalhabal-it" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullahalhabal-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahalhabal-it" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abd-supernova94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abd-supernova94" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100025366722156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100025366722156" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/peackyblinders" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="peackyblinders" height="30" width="40" /></a>
